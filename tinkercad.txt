@@ -9,3 +9,8 @@
     (59) = 494hz
 
      of 500 Hz to 2000 Hz
+
+
+     2. uzdevums:
+     Pievienot foto rezistoru un 5 led gaismas
+     Ja uz fotorezistora gaisma krīt, tad lampiņas nedeg, ja nekrīt, tad iedegas vien aiz otras (ātrā tempā)
