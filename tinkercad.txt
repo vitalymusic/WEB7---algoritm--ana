@@ -1,0 +1,11 @@
+1. Policijas sirēna
+    2 diodes (sarkanā un zila), 1 pikstulis
+    Darbība:
+    Kad atskan signāls (nots), Sarkanā diode mirkšķina 3 reizes
+    Kad atskan otrs signāls (nots), Zilā diode mirkšķina 3 reizes
+
+
+    (60) = 523hz
+    (59) = 494hz
+
+     of 500 Hz to 2000 Hz
