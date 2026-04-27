@@ -1,3 +1,13 @@
 1. Aprēķināt taisnstūra laukumu kur malas garumu un platuumu ievada lietotājs. Izvadē uzrakstīt: "Taisnsstūra laukums ir: "
 2. Aprēķināt taisnstūra perimetru kur malas garumu un platuumu ievada lietotājs. Izvadē uzrakstīt: "Taisnsstūra perimetrs ir: "
 3. Uzrakstīt Eur konvertāciju uz USD, kur lietotājs ievada summu EUR un pretī saņem šo pašu summu USD valūtā
+
+4. Procentu kalkulators (Noguldījums)
+Uzdevums: Aprēķināt, cik naudas būs bankas kontā pēc n gadiem, ja zināma gada procentu likme (saliktie procenti).
+	Formula: 〖S = P(1 + r)〗^n
+	P — sākuma summa
+	r — procentu likme (decimāldaļās)
+	n — gadu skaits
+	Scratch izaicinājums: Izmantot operatoru ^ (kāpināšana), ko Scratch vidē parasti aizstāj ar ciklu (reizināšana pašam ar sevi n reizes).
+
+5. Aprēķināt algas pirms un pēc nodokļu nomaksas
