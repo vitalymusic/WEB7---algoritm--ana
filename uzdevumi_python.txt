@@ -11,3 +11,4 @@ Uzdevums: Aprēķināt, cik naudas būs bankas kontā pēc n gadiem, ja zināma 
 	Scratch izaicinājums: Izmantot operatoru ^ (kāpināšana), ko Scratch vidē parasti aizstāj ar ciklu (reizināšana pašam ar sevi n reizes).
 
 5. Aprēķināt algas pirms un pēc nodokļu nomaksas
+
